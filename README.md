@@ -21,9 +21,7 @@
 
 ## 👋 About Me
 
-Hi, I’m **Emre Doğan** (online: **emredogan-cloud**).
-
-I’m an **18-year-old** Cloud enthusiast pursuing a career as a **Cloud Engineer / Cloud Architect**. I build my skills through **hands-on, production-minded projects**—designing, shipping, breaking, and improving systems iteratively.
+I am passionate about cloud technology and aim to pursue a career as a cloud engineer/cloud architect. I develop my skills through hands-on, production-oriented projects; designing, deploying, troubleshooting, and iteratively improving systems.
 
 My approach is simple: **learn by building**. I focus on practical architecture, automation, and Infrastructure as Code—because that’s what turns knowledge into real capability.
 
