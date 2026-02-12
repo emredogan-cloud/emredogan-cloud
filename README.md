@@ -60,8 +60,9 @@ My approach is simple: **learn by building**. I focus on practical architecture,
 - **[Aegis](https://github.com/emredogan-cloud/aegis)** Production-ready, one-command infrastructure modules (VPC, compute, RDS, cache, security, CI/CD, observability).  
   `Status:` actively building
 
-- **[AWS Cost Radar](https://github.com/emredogan-cloud/aws-cost-radar)** Multi-region scanners and automation tools to identify cost leaks and improve hygiene (e.g., unused resources, visibility gaps).  
-  `Focus:` clean output, logging, safe operations, extensible design
+- **[aws-terraform-prod-static-site](https://github.com/emredogan-cloud/aws-terraform-prod-static-site)** 
+ "Production-grade serverless architecture on AWS built with Terraform. Features S3/CloudFront hosting, WAF security, Lambda/DynamoDB backend, and GitHub Actions CI/CD.".  
+  `Focus:` Focused on: Security, Remote State, accessibility, CI/CD technologies, lambda, and a serverless backend (user counter) with Dynamodb.
 
 - **[AWS Environment Scheduler](https://github.com/emredogan-cloud/aws-environment-scheduler)** Automated scheduling tool for resources to optimize runtime costs and manage environments efficiently.
 
