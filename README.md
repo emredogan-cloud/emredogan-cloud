@@ -1,6 +1,6 @@
 <h1 align="center">Emre Doğan</h1>
 <p align="center">
-  Cloud Engineer / Cloud Architect (in progress) • AWS • Terraform • Python Automation
+  DevOps Engineer / Cloud Engineer • AWS • Terraform • Python Automation
 </p>
 
 <p align="center">
@@ -64,16 +64,6 @@ My approach is simple: **learn by building**. I focus on practical architecture,
 
 - **[AWS Environment Scheduler](https://github.com/emredogan-cloud/aws-environment-scheduler)** Automated scheduling tool for resources to optimize runtime costs and manage environments efficiently.
 
----
-
-## 🧩 Architecture & Visuals
-
-I support my projects with:
-- **Architecture diagrams** (draw.io / diagrams-as-code where possible)
-- **Clear docs and runbooks**
-- **Examples & templates** for real-world usage
-
----
 
 ## 📚 Learning & Certifications
 
