@@ -51,7 +51,7 @@ flowchart TB
     classDef plat fill:#111111,stroke:#475569,stroke-width:1px,color:#e2e8f0
     classDef oss fill:#0a0a0a,stroke:#00d2ff,stroke-width:1.5px,color:#fff
 
-    ED["⬣ emredogan.com<br/>cinematic portfolio · Lumina AI rep"]:::studio
+    ED["⬣ emredogan.work<br/>cinematic portfolio · Lumina AI rep"]:::studio
 
     subgraph SHIPPED ["▲  SHIPPED IN PRODUCTION"]
         direction LR
@@ -118,7 +118,7 @@ Six projects, in priority order. Each one is the architecture, not a screenshot.
 
 <table>
 <tr>
-<td width="33%" align="center"><b>▲ LIVE</b><br/><sub>emredogan.com</sub></td>
+<td width="33%" align="center"><b>▲ LIVE</b><br/><sub>emredogan.work</sub></td>
 <td width="33%" align="center"><b>▲ LIVE</b><br/><sub>cloudwastehunter.io</sub></td>
 <td width="33%" align="center"><b>▲ LIVE</b><br/><sub>vibingcoderai.com</sub></td>
 </tr>
