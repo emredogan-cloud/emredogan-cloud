@@ -18,7 +18,7 @@ Production-grade systems · shipped with intention · powered by craft.</sub>
 
 <br/>
 
-[![Live](https://img.shields.io/badge/portfolio-emredogan.com-0a0a0a?style=for-the-badge)](https://my-portfolio-amber-kappa-l6sl5h9955.vercel.app/)
+[![Live](https://img.shields.io/badge/portfolio-emredogan.com-0a0a0a?style=for-the-badge)]([https://my-portfolio-amber-kappa-l6sl5h9955.vercel.app/](https://www.emredogan.work/))
 [![LinkedIn](https://img.shields.io/badge/in/emredogan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emre-do%C4%9Fan-657a99388/)
 [![X](https://img.shields.io/badge/@emredogancloud-111111?style=for-the-badge&logo=x&logoColor=white)](https://x.com/emredogancloud)
 [![Medium](https://img.shields.io/badge/@emre30283-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@emre30283)
@@ -173,7 +173,7 @@ flowchart LR
 | **Stack** | Next.js 16 · React 19 · TypeScript strict · Tailwind v4 · motion/react · Vercel AI SDK v6 · `@ai-sdk/anthropic` · Resend · Vercel KV · `@octokit/rest` · Sentry · React Three Fiber |
 | **Highlights** | Runtime-aware Sentry instrumentation (server vs. edge) · `claude-haiku-4-5-20251001` pinned (no floating aliases) · sigstore provenance on every npm publish · `prefers-reduced-motion` everywhere · zero client JS on static segments |
 | **Open source** | [`@emredogan/lumina-chat`](https://www.npmjs.com/package/@emredogan/lumina-chat) — drop-in cinematic AI chat widget · [`@emredogan/cli`](https://www.npmjs.com/package/@emredogan/cli) — POSIX terminal companion (zero deps) |
-| **Live** | [emredogan.com](https://my-portfolio-amber-kappa-l6sl5h9955.vercel.app/) |
+| **Live** | [emredogan.com](https://www.emredogan.work/) |
 
 ---
 
@@ -517,7 +517,7 @@ npx emredogan ask "How is /telemetry cached?"
 If you're building **cloud-native SaaS, applied AI, or cross-platform mobile** — or hiring for it — I'd love to talk.
 
 [![Email](https://img.shields.io/badge/email-emre30283@gmail.com-0a0a0a?style=for-the-badge)](mailto:emre30283@gmail.com)
-[![Portfolio](https://img.shields.io/badge/portfolio-emredogan.com-22c55e?style=for-the-badge)](https://my-portfolio-amber-kappa-l6sl5h9955.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/portfolio-emredogan.com-22c55e?style=for-the-badge)](https://www.emredogan.work/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emre-do%C4%9Fan-657a99388/)
 
 <br/>
