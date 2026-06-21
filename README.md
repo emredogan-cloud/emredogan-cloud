@@ -18,8 +18,7 @@ Production-grade systems · shipped with intention · powered by craft.</sub>
 
 <br/>
 
-[![Live](https://img.shields.io/badge/portfolio-emredogan.com-0a0a0a?style=for-the-badge)]([https://my-portfolio-amber-kappa-l6sl5h9955.vercel.app/](https://www.emredogan.work/))
-[![LinkedIn](https://img.shields.io/badge/in/emredogan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emre-do%C4%9Fan-657a99388/)
+[![Live](https://img.shields.io/badge/portfolio-emredogan.com-0a0a0a?style=for-the-badge)](https://www.emredogan.work/)[![LinkedIn](https://img.shields.io/badge/in/emredogan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emre-do%C4%9Fan-657a99388/)
 [![X](https://img.shields.io/badge/@emredogancloud-111111?style=for-the-badge&logo=x&logoColor=white)](https://x.com/emredogancloud)
 [![Medium](https://img.shields.io/badge/@emre30283-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@emre30283)
 
